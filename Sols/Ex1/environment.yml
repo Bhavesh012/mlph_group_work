@@ -1,12 +1,11 @@
 name: mlph
 channels:
-  - defaults
+  - conda-forge
 dependencies:
-  - jupyter
-  - pip
   - matplotlib
-  - python=3.9
+  - python=3.10
   - numpy
   - scikit-learn
-  - pip:
-    - umap-learn
+  - umap-learn
+  - plotly
+  - scipy

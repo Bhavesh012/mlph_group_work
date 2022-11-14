@@ -9,3 +9,5 @@ dependencies:
   - umap-learn
   - plotly
   - scipy
+  - pandas
+  - nbformat

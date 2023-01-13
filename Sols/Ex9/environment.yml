@@ -1,0 +1,17 @@
+name: mlph3
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - jupyter
+  - pip
+  - matplotlib
+  - python=3.9
+  - numpy
+  - scikit-learn
+  - pytorch
+  - cpuonly
+  - torchvision
+  - h5py
+  - tqdm
+
